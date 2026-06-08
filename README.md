@@ -1,36 +1,47 @@
-# QA Portfolio
+# QA Portfolio - Alexandra Maireth Villa Guerra
 
-Hello! I'm Alexandra Villa, a Systems Engineer focused on Software Quality Assurance.
+## About Me
 
-This repository contains practical QA projects including:
+Systems Engineer focused on Quality Assurance (QA).
 
-- Test Plans
-- Test Cases
-- Bug Reports
-- Test Execution Evidence
-- Regression Testing
-- Smoke Testing
-
-## Skills
+This repository contains practical QA projects developed to demonstrate skills in:
 
 - Manual Testing
 - Functional Testing
 - Regression Testing
 - Smoke Testing
 - Test Documentation
+- Bug Reporting
+- SQL Validation
+
+## Tools
+
 - Jira
-- SQL
 - GitHub
+- SQL
+- Postman
+- Chrome DevTools
 
 ## Projects
 
-### Project 1 - Restaurant Management System Testing
-Testing of a restaurant management platform including:
+### Project 01 - Loggro Restobar Testing
 
+Status: In Progress
+
+Scope:
 - Login
 - Products
+- Categories
 - Orders
 - Customers
 - Reports
 
-Status: In Progress
+Deliverables:
+- Test Plan
+- Test Cases
+- Bug Reports
+- Test Evidence
+- Final Test Report
+
+---
+Created by Alexandra Villa
